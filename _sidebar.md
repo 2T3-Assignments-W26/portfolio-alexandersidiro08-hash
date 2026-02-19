@@ -6,3 +6,5 @@
   - [PowerShell](cheatsheets/powershell.md)
 
 - About Me
+  - [Resume](aboutme/Alexander_Sidirokastritis_2573827.md)
+  - [My Projects](aboutme/myProjects.md)
