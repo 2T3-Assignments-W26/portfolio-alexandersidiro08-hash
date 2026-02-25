@@ -1,4 +1,4 @@
-![Picture of Alexander Sidirokastritis](./assets/IMG_0861.JPG)
+![Picture of Alexander Sidirokastritis]()
 
 # Alexander Sidirokastritis
 
